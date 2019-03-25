@@ -27,4 +27,13 @@ body th {
   color: #ff3399;
 }
 
+.footer {
+  background-color: #ff3399;
+  color: white;
+  height: 150px;
+  width: 100%;
+  padding-left: 25px;
+  padding-top: 20px;
+}
+
 /*# sourceMappingURL=main.css.map */

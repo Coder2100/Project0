@@ -6,16 +6,6 @@
 		body{
 			background-color: white;
 		}
-		.footer{
-			background-color: #ff3399;
-			height: 150px;
-			width: 100%;
-			padding-left: 25px;
-			padding-top: 20px;
-			color: white
-			
-		}
-
 		.nav{
 			overflow: scroll;
 
@@ -94,3 +84,21 @@
 			width: 100%;
 			height: auto;
 		}
+
+		@media (min-width: 500px) {
+                h1::before {
+                    content: "Global Equity Fund | JSE TOP40 Index";
+                }
+            }
+
+            @media (max-width: 499px) {
+                h1::before {
+                    content: "Global Equity Fund";
+                }
+                .descripion, .indices{
+                	font-size: 15px;
+                }
+                .indices{
+                	font-weight: bold;
+                }
+            }
