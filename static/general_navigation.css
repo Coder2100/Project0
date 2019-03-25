@@ -16,10 +16,6 @@
 			
 		}
 
-		.nav{
-			overflow: scroll;
-
-		}
 		.nav li a{
 			color: white;
 			text-decoration: none;
@@ -61,36 +57,13 @@
 		}
 
 		.homepage_header{
-			min-height: 100px;
+			min-height: 185px;
 			background-color: red;
 			padding: fixed;
 			background-attachment: fixed !important;
 			background-image:linear-gradient(to bottom right, #ff3399, yellow)
-
-
-		}
-		.underlined_products{
-			height: 15px;
-			width: 100%;
-			background-color: red;
 		}
 
-		.underlined_performance{
-			height: 15px;
-			width: 100%;
-			background-color: green;
-		}
-
-		h3{
-			text-align: center;
-		}
-
-		.underlined_fees{
-			height: 15px;
-			width: 100%;
-			background-color: teal;
-
-		}
 		.explain{
 			padding-top: 15px;
 		}

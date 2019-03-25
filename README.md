@@ -7,7 +7,7 @@ Web Programming with Python and JavaScript
 
 Overview
 
-I mimicked the site of hypothetic Asset Management Firm and the information thatmight be displayed.
+I mimicked the site of hypothetic Asset Management Firm and the information that might be displayed.
 I used the at the websites below for reference and inspirational ideas.
 Images were sourced from Pixabay,No copyright violation intended.
 

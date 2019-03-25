@@ -1,7 +1,8 @@
-      *{
-	   width: 100%
-		height:auto;
-		}
+          *{
+	       width: 100%
+		    height:auto;
+		    }
+
 		body{
 			background-color: white;
 		}
@@ -87,4 +88,9 @@
 		#more a{
 			text-decoration: none;
 			color: #ff3399;
+		}
+
+		.product_image{
+			width: 100%;
+			height: auto;
 		}
