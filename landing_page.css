@@ -32,7 +32,8 @@
 		}
 
 		.nav li:hover{
-			background-color: black;	
+			background-color: black;
+			transition: background-color 3s ease-out;	
 		}
 
 		ul{
